@@ -1,0 +1,1 @@
+szef zmienia sposob pracy z baza danych z sql na mysql
